@@ -163,7 +163,7 @@ You'll explore AWS CloudTrail and AWS Config, which provide auditing and complia
 
 **Project:** You'll configure CloudTrail to log API activities and set up AWS Config rules to enforce compliance policies for your AWS resources.
 
-## Day 26: AWS Elastic Load Balancer
+## Day 26: AWS Elastic Load Balancre
 
 You'll explore AWS Elastic Load Balancer, a service for distributing incoming application traffic across multiple targets. You'll learn how to configure and manage load balancers to ensure high availability, fault tolerance, and scalability.
 
